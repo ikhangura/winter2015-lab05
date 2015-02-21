@@ -29,6 +29,8 @@ define('FILE_WRITE_MODE', 0666);
 define('DIR_READ_MODE', 0755);
 define('DIR_WRITE_MODE', 0777);
 
+// add my constant
+define('BR', '<br/>');
 /*
 |--------------------------------------------------------------------------
 | File Stream Modes
